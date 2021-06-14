@@ -14,7 +14,15 @@
   "author": "Dinora Peña <dinorapc10@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinoraPC10/msg-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinoraPC10/msg-random/issues"
+  },
+  "homepage": "https://github.com/dinoraPC10/msg-random#readme"
 }
